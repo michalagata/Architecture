@@ -4,7 +4,7 @@
 
 ##### PullRequest Development Flow
 
-![PullRequest Development Flow](PullRequestFlow.png)
+![PullRequest Development Flow](PullRequestFlowV2.png)
 
 ##### Continuous Delivery Proposal (Monolith)
 
